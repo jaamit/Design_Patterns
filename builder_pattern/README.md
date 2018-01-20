@@ -1,6 +1,4 @@
-# Builder Pattern
-
-## GoF Object Creational Pattern
+# Builder Pattern - GoF Object Creational Pattern
 
 •	Separate the construction of a complex object from its representation
 
